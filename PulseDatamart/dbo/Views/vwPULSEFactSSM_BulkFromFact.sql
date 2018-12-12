@@ -1,0 +1,1 @@
+﻿CREATE VIEW [dbo].[vwPULSEFactSSM_BulkFromFact] AS SELECT 1 AS ID;

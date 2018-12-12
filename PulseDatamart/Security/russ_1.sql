@@ -1,0 +1,3 @@
+﻿CREATE LOGIN [russ]
+    WITH PASSWORD = N'qbnzzqtocsvwP0xbil|rk5nemsFT7_&#$!~<bjlvvuscnVak', SID = 0x36276365B08B8B44AA2E303C43E3963A, DEFAULT_LANGUAGE = [us_english], CHECK_POLICY = OFF;
+

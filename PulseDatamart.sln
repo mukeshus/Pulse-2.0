@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2047
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "PulseDatamart", "PulseDatamart\PulseDatamart.sqlproj", "{DEBDEC87-A25A-4336-B968-A8DABF894FE6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DEBDEC87-A25A-4336-B968-A8DABF894FE6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DEBDEC87-A25A-4336-B968-A8DABF894FE6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DEBDEC87-A25A-4336-B968-A8DABF894FE6}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{DEBDEC87-A25A-4336-B968-A8DABF894FE6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DEBDEC87-A25A-4336-B968-A8DABF894FE6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DEBDEC87-A25A-4336-B968-A8DABF894FE6}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D1620A44-9AEB-4E85-A7C9-DC24E74D9B38}
+	EndGlobalSection
+EndGlobal

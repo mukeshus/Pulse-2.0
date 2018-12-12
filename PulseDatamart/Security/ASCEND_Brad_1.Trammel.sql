@@ -1,0 +1,3 @@
+﻿CREATE LOGIN [ASCEND\Brad.Trammel]
+    FROM WINDOWS WITH DEFAULT_LANGUAGE = [us_english];
+
